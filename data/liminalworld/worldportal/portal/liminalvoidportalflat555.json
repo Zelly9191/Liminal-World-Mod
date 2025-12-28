@@ -1,0 +1,10 @@
+{
+  "frame_top_right": "minecraft:quartz_block",
+  "frame_top_left": "minecraft:quartz_block",
+  "frame_bottom_right": "minecraft:quartz_block",
+  "frame_bottom_left": "minecraft:quartz_block",
+  "mode": "worldportal:horizontal",
+  "destination": "liminalworld:endlessvoid555"
+}
+
+

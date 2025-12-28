@@ -1,0 +1,11 @@
+{
+  "type": "liminalworld:liminalvoid555",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "liminalworld:liminalnoise555",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "liminalworld:liminalspace555"
+    }
+  }
+}

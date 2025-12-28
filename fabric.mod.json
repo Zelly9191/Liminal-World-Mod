@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "liminalworld",
+  "version": "1.21.1",
+  "name": "Liminal World",
+  "description": "A Liminal World by Zelly_9191",
+  "license": "LicenseRef-Datapack",
+  "environment": "*",
+  "depends": {
+    "fabric-resource-loader-v0": "*"
+  },
+  "icon": "pack.png"
+}

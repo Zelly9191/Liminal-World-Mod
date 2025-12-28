@@ -1,0 +1,7 @@
+modLoader = 'lowcodefml'
+loaderVersion = '[40,)'
+license = 'LicenseRef-Datapack'
+showAsResourcePack = false
+mods = [
+	{ modId = "liminalworld", version = "1.21.1", displayName = "Liminal World", description = "A Liminal World made with https://misode.github.io and https://labs.hardel.io/en-us/converter", credits = "Zelly_9191", logoFile = "pack.png" }
+]
